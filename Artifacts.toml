@@ -1,0 +1,236 @@
+[[GoogleTest]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8ead3355d4f4b74e574b7dd0fbcb4b7d9838385c"
+libc = "glibc"
+os = "linux"
+
+    [[GoogleTest.download]]
+    sha256 = "37d79a5dc7e315d6785d701b10311a6c91064f46d921663dfb512a8dc14acb9e"
+    url = "https://github.com/JuliaBinaryWrappers/GoogleTest_jll.jl/releases/download/GoogleTest-v1.10.0+0/GoogleTest.v1.10.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[GoogleTest]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7067826ecc3e68b6f00e626db763adccbe484aa9"
+libc = "glibc"
+os = "linux"
+
+    [[GoogleTest.download]]
+    sha256 = "c3955aebb3da577fd6d9fcb2a8685246b34a68ea25e7ea98e463df04faf09f36"
+    url = "https://github.com/JuliaBinaryWrappers/GoogleTest_jll.jl/releases/download/GoogleTest-v1.10.0+0/GoogleTest.v1.10.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[GoogleTest]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "27af083718f1cef21a3d857f30dfb466efe221aa"
+libc = "musl"
+os = "linux"
+
+    [[GoogleTest.download]]
+    sha256 = "afd1ea172b0759e25560dc79a3108363bde006eb43155ba70586f99ad345edea"
+    url = "https://github.com/JuliaBinaryWrappers/GoogleTest_jll.jl/releases/download/GoogleTest-v1.10.0+0/GoogleTest.v1.10.0.aarch64-linux-musl-cxx03.tar.gz"
+[[GoogleTest]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3e8d226b9746f6f4154ef199ff8941ad864089ea"
+libc = "musl"
+os = "linux"
+
+    [[GoogleTest.download]]
+    sha256 = "ec506dea7f5d495d8e31abdafed31e5ecc915c86d032c617209ecf1839892b22"
+    url = "https://github.com/JuliaBinaryWrappers/GoogleTest_jll.jl/releases/download/GoogleTest-v1.10.0+0/GoogleTest.v1.10.0.aarch64-linux-musl-cxx11.tar.gz"
+[[GoogleTest]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b39e929593902c116b5a7f469020bf8efa431a65"
+libc = "glibc"
+os = "linux"
+
+    [[GoogleTest.download]]
+    sha256 = "5e644bfc59b94efb4ab29d2a7ef85ce8021e921001843930c3a890700b7d0fd6"
+    url = "https://github.com/JuliaBinaryWrappers/GoogleTest_jll.jl/releases/download/GoogleTest-v1.10.0+0/GoogleTest.v1.10.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[GoogleTest]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "241a379eb090c97745b54e6c1c9507517f03bcf6"
+libc = "glibc"
+os = "linux"
+
+    [[GoogleTest.download]]
+    sha256 = "b312e42e27847ffd3ff4884f3d517683c219214b3ec23f070a0d08835414da65"
+    url = "https://github.com/JuliaBinaryWrappers/GoogleTest_jll.jl/releases/download/GoogleTest-v1.10.0+0/GoogleTest.v1.10.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[GoogleTest]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ea3c22572389af253d1a81b137f93c2115634d8a"
+libc = "musl"
+os = "linux"
+
+    [[GoogleTest.download]]
+    sha256 = "427217a3c199b5c874a9270f262768c405d27f734d1ddd941d79c8ebd813a36a"
+    url = "https://github.com/JuliaBinaryWrappers/GoogleTest_jll.jl/releases/download/GoogleTest-v1.10.0+0/GoogleTest.v1.10.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[GoogleTest]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2d202474f192b48f608a869fe65acf17979f14ea"
+libc = "musl"
+os = "linux"
+
+    [[GoogleTest.download]]
+    sha256 = "ab5f8508a79d719dd4cb402765978578d3f8286a79b0cc0bf27a6dea2db332b9"
+    url = "https://github.com/JuliaBinaryWrappers/GoogleTest_jll.jl/releases/download/GoogleTest-v1.10.0+0/GoogleTest.v1.10.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[GoogleTest]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9db4e37fc0e69ba610827ecdd6bf0b7680e848fe"
+libc = "glibc"
+os = "linux"
+
+    [[GoogleTest.download]]
+    sha256 = "3b6d105aa186616c6be94e6d5acc5034601c48ab4a090be4fa1bd59d27ecd1a4"
+    url = "https://github.com/JuliaBinaryWrappers/GoogleTest_jll.jl/releases/download/GoogleTest-v1.10.0+0/GoogleTest.v1.10.0.i686-linux-gnu-cxx03.tar.gz"
+[[GoogleTest]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "40b19bbe23656a78d1f91259eea65dfe54a7248a"
+libc = "glibc"
+os = "linux"
+
+    [[GoogleTest.download]]
+    sha256 = "503ee3f53e384f084b79152207a2897e9d609cd5601e69f575a1acac034ef827"
+    url = "https://github.com/JuliaBinaryWrappers/GoogleTest_jll.jl/releases/download/GoogleTest-v1.10.0+0/GoogleTest.v1.10.0.i686-linux-gnu-cxx11.tar.gz"
+[[GoogleTest]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b50a867528280073c9565b9fba85ac6ed53ced6a"
+libc = "musl"
+os = "linux"
+
+    [[GoogleTest.download]]
+    sha256 = "5b6c73818e67311ce59c4a24c84a142d5b229be9987e9d2deae5b4f2c15ecd4f"
+    url = "https://github.com/JuliaBinaryWrappers/GoogleTest_jll.jl/releases/download/GoogleTest-v1.10.0+0/GoogleTest.v1.10.0.i686-linux-musl-cxx03.tar.gz"
+[[GoogleTest]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9ae704d72efc63339e40f4d25dad5e93860cf3dc"
+libc = "musl"
+os = "linux"
+
+    [[GoogleTest.download]]
+    sha256 = "10f202cc849f68c27604f724200d3ab4801a3fd0ed44eb3bc0e62ef1abd63550"
+    url = "https://github.com/JuliaBinaryWrappers/GoogleTest_jll.jl/releases/download/GoogleTest-v1.10.0+0/GoogleTest.v1.10.0.i686-linux-musl-cxx11.tar.gz"
+[[GoogleTest]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5f6ec1128e435eba235c7e45b730ff6c6d003561"
+os = "windows"
+
+    [[GoogleTest.download]]
+    sha256 = "a04124b1cc5eda0f715ace4cd0766037f903654a497446f853635f4952b4aae0"
+    url = "https://github.com/JuliaBinaryWrappers/GoogleTest_jll.jl/releases/download/GoogleTest-v1.10.0+0/GoogleTest.v1.10.0.i686-w64-mingw32-cxx03.tar.gz"
+[[GoogleTest]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e05ded4a5dbb564479f1ca132fa04b659f96023b"
+os = "windows"
+
+    [[GoogleTest.download]]
+    sha256 = "de846f7abcab7facb54eca25c7b9f0c127888d98ac9f0ea3589898713c9b2eec"
+    url = "https://github.com/JuliaBinaryWrappers/GoogleTest_jll.jl/releases/download/GoogleTest-v1.10.0+0/GoogleTest.v1.10.0.i686-w64-mingw32-cxx11.tar.gz"
+[[GoogleTest]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "efbd5e9218d908981321b5368d7bcbf1308dce05"
+libc = "glibc"
+os = "linux"
+
+    [[GoogleTest.download]]
+    sha256 = "5a33e96be437453c2746c7551da1bd80014000c15d2ec4f56a0e693affcb7a5d"
+    url = "https://github.com/JuliaBinaryWrappers/GoogleTest_jll.jl/releases/download/GoogleTest-v1.10.0+0/GoogleTest.v1.10.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[GoogleTest]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a87d1ddfefc38ee3421af4b4e378bc549f6ccfc8"
+libc = "glibc"
+os = "linux"
+
+    [[GoogleTest.download]]
+    sha256 = "4aabb8b2b7969b6b023a0a0b2f57510a27998556c293c9d4bb7af2315375b128"
+    url = "https://github.com/JuliaBinaryWrappers/GoogleTest_jll.jl/releases/download/GoogleTest-v1.10.0+0/GoogleTest.v1.10.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[GoogleTest]]
+arch = "x86_64"
+git-tree-sha1 = "125f8ff7ba0853c094bad61eac9ee9e76c93d271"
+os = "macos"
+
+    [[GoogleTest.download]]
+    sha256 = "cb89d559374dbd720b8edd72121f957b5f614059564d7fb7a62ad26f6b56bc61"
+    url = "https://github.com/JuliaBinaryWrappers/GoogleTest_jll.jl/releases/download/GoogleTest-v1.10.0+0/GoogleTest.v1.10.0.x86_64-apple-darwin.tar.gz"
+[[GoogleTest]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "721fd1c2bb41ac02603c793ddb0e50b35f26cce9"
+libc = "glibc"
+os = "linux"
+
+    [[GoogleTest.download]]
+    sha256 = "c747b18de1924f19892bc912245f4a7823b09809b94ba97ec6fc7279507a628a"
+    url = "https://github.com/JuliaBinaryWrappers/GoogleTest_jll.jl/releases/download/GoogleTest-v1.10.0+0/GoogleTest.v1.10.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[GoogleTest]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "35ef8f179147968c3fc0c908de3ed3a98dfc69d8"
+libc = "glibc"
+os = "linux"
+
+    [[GoogleTest.download]]
+    sha256 = "6e3cb0c680069d4cdb7d13e8f6a3954c06c5bb3ac141366e10278f44fc42c9b5"
+    url = "https://github.com/JuliaBinaryWrappers/GoogleTest_jll.jl/releases/download/GoogleTest-v1.10.0+0/GoogleTest.v1.10.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[GoogleTest]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "211367074ce311ef5c645a31f41aaa12a096322e"
+libc = "musl"
+os = "linux"
+
+    [[GoogleTest.download]]
+    sha256 = "f1b63d27e52fb0ddb1201f962b2cd2f28f484b72ca7a8649517acebff17b60c3"
+    url = "https://github.com/JuliaBinaryWrappers/GoogleTest_jll.jl/releases/download/GoogleTest-v1.10.0+0/GoogleTest.v1.10.0.x86_64-linux-musl-cxx03.tar.gz"
+[[GoogleTest]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "841dffab3c8e885a95b543803e70fb8742f72569"
+libc = "musl"
+os = "linux"
+
+    [[GoogleTest.download]]
+    sha256 = "bc80ea91aa002245e712b1e79a4663239812757be81a95030b1d248239c121f7"
+    url = "https://github.com/JuliaBinaryWrappers/GoogleTest_jll.jl/releases/download/GoogleTest-v1.10.0+0/GoogleTest.v1.10.0.x86_64-linux-musl-cxx11.tar.gz"
+[[GoogleTest]]
+arch = "x86_64"
+git-tree-sha1 = "0ff50d578b08588fa0fc9ff5c024f2d0f10aa312"
+os = "freebsd"
+
+    [[GoogleTest.download]]
+    sha256 = "054158d5c02d5a55a1b8769eb887bb5bb21a969ca6b4e093e5b8ef7f354b5197"
+    url = "https://github.com/JuliaBinaryWrappers/GoogleTest_jll.jl/releases/download/GoogleTest-v1.10.0+0/GoogleTest.v1.10.0.x86_64-unknown-freebsd.tar.gz"
+[[GoogleTest]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "25208eb25fc47ebdf1b3989c7778ab39a9dd85b9"
+os = "windows"
+
+    [[GoogleTest.download]]
+    sha256 = "d874be2256d68176d6c1e4f3b03e8b00b5ed417b1d7bc9b077882836c3c87220"
+    url = "https://github.com/JuliaBinaryWrappers/GoogleTest_jll.jl/releases/download/GoogleTest-v1.10.0+0/GoogleTest.v1.10.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[GoogleTest]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f334e936590de09d1b6e7b6c470515f291cd1c9d"
+os = "windows"
+
+    [[GoogleTest.download]]
+    sha256 = "ddbc7ec784281be1427a7eb23ec38abe1bf54b7639794c999b0f1a66d1c29475"
+    url = "https://github.com/JuliaBinaryWrappers/GoogleTest_jll.jl/releases/download/GoogleTest-v1.10.0+0/GoogleTest.v1.10.0.x86_64-w64-mingw32-cxx11.tar.gz"
