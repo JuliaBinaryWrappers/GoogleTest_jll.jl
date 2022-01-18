@@ -2,8 +2,8 @@
 export libgtest, libgtest_main
 
 JLLWrappers.@generate_wrapper_header("GoogleTest")
-JLLWrappers.@declare_library_product(libgtest, "libgtest.so")
-JLLWrappers.@declare_library_product(libgtest_main, "libgtest_main.so")
+JLLWrappers.@declare_library_product(libgtest, "libgtest.so.1.11.0")
+JLLWrappers.@declare_library_product(libgtest_main, "libgtest_main.so.1.11.0")
 function __init__()
     JLLWrappers.@generate_init_header()
     JLLWrappers.@init_library_product(

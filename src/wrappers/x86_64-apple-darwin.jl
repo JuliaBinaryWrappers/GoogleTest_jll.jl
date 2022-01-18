@@ -2,19 +2,19 @@
 export libgtest, libgtest_main
 
 JLLWrappers.@generate_wrapper_header("GoogleTest")
-JLLWrappers.@declare_library_product(libgtest, "@rpath/libgtest.dylib")
-JLLWrappers.@declare_library_product(libgtest_main, "@rpath/libgtest_main.dylib")
+JLLWrappers.@declare_library_product(libgtest, "@rpath/libgtest.1.11.0.dylib")
+JLLWrappers.@declare_library_product(libgtest_main, "@rpath/libgtest_main.1.11.0.dylib")
 function __init__()
     JLLWrappers.@generate_init_header()
     JLLWrappers.@init_library_product(
         libgtest,
-        "lib/libgtest.dylib",
+        "lib/libgtest.1.11.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libgtest_main,
-        "lib/libgtest_main.dylib",
+        "lib/libgtest_main.1.11.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
